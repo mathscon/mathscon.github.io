@@ -40,7 +40,7 @@
  }
  
  hr {
-     border-color: rgb(30,189,4);
+     border-color: #85AFF7;
      border-width: 3px;
      max-width: 50px
  }
@@ -378,7 +378,7 @@
  }
  
  .text-primary {
-     color: rgb(30, 189, 4)
+     color: #85AFF7
  }
  
  .no-gutter>[class*=col-] {
