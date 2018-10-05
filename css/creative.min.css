@@ -62,7 +62,7 @@
  
  a:focus,
  a:hover {
-     color: #85AFF7
+     color: rgb(30,189,4)
  }
  
  p {
@@ -128,7 +128,7 @@
  
  .navbar-default .navbar-header .navbar-brand:focus,
  .navbar-default .navbar-header .navbar-brand:hover {
-     color: #85AFF7
+     color: rgb(30,189,4)
  }
  
  .navbar-default .navbar-header .navbar-toggle {
@@ -148,12 +148,12 @@
  
  .navbar-default .nav>li>a:focus:hover,
  .navbar-default .nav>li>a:hover {
-     color: #85AFF7
+     color: rgb(30,189,4)
  }
  
  .navbar-default .nav>li.active>a,
  .navbar-default .nav>li.active>a:focus {
-     color: #85AFF7!important;
+     color: rgb(30,189,4)!important;
      background-color: transparent
  }
  
@@ -165,7 +165,7 @@
  .navbar-default .navbar-nav>.open>a,
  .navbar-default .navbar-nav>.open>a:focus,
  .navbar-default .navbar-nav>.open>a:hover {
-     color: #85AFF7;
+     color: rgb(30,189,4);
      background-color: transparent
  }
  
@@ -200,7 +200,7 @@
      }
      .navbar-default.affix .nav>li>a:focus:hover,
      .navbar-default.affix .nav>li>a:hover {
-         color: #85AFF7
+         color: rgb(30,189,4)
      }
  }
  
@@ -399,7 +399,7 @@
  .btn-default:focus,
  .btn-default:hover,
  .open>.dropdown-toggle.btn-default {
-     color: #85AFF7;
+     color: rgb(30,189,4);
      background-color: #171414;
      border-color: #ededed
  }
@@ -447,8 +447,8 @@
  .btn-primary:hover,
  .open>.dropdown-toggle.btn-primary {
      color: #fff;
-     background-color: #85AFF7;
-     border-color: #85AFF7
+     background-color: rgb(30,189,4);
+     border-color: rgb(30,189,4)
  }
  
  .btn-primary.disabled,
@@ -469,12 +469,12 @@
  fieldset[disabled] .btn-primary:active,
  fieldset[disabled] .btn-primary:focus,
  fieldset[disabled] .btn-primary:hover {
-     background-color: #85AFF7;
-     border-color: #85AFF7
+     background-color: rgb(30,189,4);
+     border-color: rgb(30,189,4)
  }
  
  .btn-primary .badge {
-     color: #85AFF7;
+     color: rgb(30,189,4);
      background-color: #fff
  }
  
@@ -604,7 +604,7 @@
  }
  
  .verticalLine {
-     border-right: thick solid #85AFF7
+     border-right: thick solid rgb(30,189,4)
  }
  
  .PartnerItem img {
@@ -673,7 +673,7 @@
  ul.social-buttons li a:active,
  ul.social-buttons li a:focus,
  ul.social-buttons li a:hover {
-     background-color: #85AFF7
+     background-color: rgb(30,189,4)
  }
  
  #map,
@@ -902,7 +902,7 @@
  
  .dropdown-toggle:focus,
  .dropdown-toggle:hover {
-     color: #85AFF7;
+     color: rgb(30,189,4);
      background-color: transparent
  }
  
@@ -917,5 +917,5 @@
  
  .dropdown-menu>li>a:hover {
      background-color: #171414;
-     color: #85AFF7
+     color: rgb(30,189,4)
  }
