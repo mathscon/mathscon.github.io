@@ -55,15 +55,16 @@
      border-color: #fff
  }
  
- a {
-     transition: all .35s;
-     color: #171414
- }
- 
- a:focus,
- a:hover {
-     color: rgb(30,189,4)
- }
+a {
+    transition: all .35s;
+    color: rgb(30,189,4)
+}
+
+a:focus,
+a:hover {
+    color: rgb(179, 251, 168)
+}
+
  
  p {
      font-size: 16px;
